@@ -1,5 +1,7 @@
 package delivery.domain;
 
+import delivery.dto.Address;
+import delivery.dto.DeliveryStatus;
 import lombok.Data;
 
 @Data

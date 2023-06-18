@@ -1,4 +1,4 @@
-package delivery.domain;
+package delivery.dto;
 
 public enum RoleType {
     CUSTOMER,

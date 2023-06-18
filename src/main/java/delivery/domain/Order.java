@@ -1,5 +1,7 @@
 package delivery.domain;
 
+import delivery.dto.DeliveryStatus;
+import delivery.dto.OrderStatus;
 import lombok.Data;
 
 import java.time.LocalDateTime;
@@ -44,6 +46,11 @@ public class Order {
         }
     }
     public int getTotalPrice(){
-        return 0;
+        int sum = 0;
+        for (OrderItem orderItem:orderItems
+             ) {
+            sum += orderItem.getTotalPrice();
+        }
+        return sum;
     }
 }
