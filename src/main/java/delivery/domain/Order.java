@@ -24,7 +24,7 @@ public class Order {
         this.delivery = delivery;
         delivery.setOrder(this);
     }
-    public static Order createOrder(Member member, Delivery delivery, OrderItem... orderItems) {
+    public static Order createOrder(Member member, Delivery delivery, List<OrderItem> orderItems) {
         Order order = new Order();
         order.setMember(member);
         order.setDelivery(delivery);

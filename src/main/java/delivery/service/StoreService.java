@@ -16,8 +16,8 @@ public class StoreService {
         this.discountPolicy = discountPolicy;
     }
 
-    public void createStore(Long id, String name, Address address, String open, String close){
-        Store store = new Store(id, name, address, open, close, discountPolicy);
+    public void createStore(Long id, String name, Address address, String open, String close, int 가격){
+        Store store = new Store(id, name, address, open, close, discountPolicy, 가격);
         storeRepository.create(store);
         System.out.println("new store created : " + store.toString());
     }

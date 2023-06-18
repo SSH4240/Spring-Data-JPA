@@ -14,13 +14,15 @@ public class Store {
     private String open;
     private String close;
     private DiscountPolicy discountPolicy;
+    private int minimumOrderPrice;
 
-    public Store(Long id, String name, Address address, String open, String close, DiscountPolicy discountPolicy) {
+    public Store(Long id, String name, Address address, String open, String close, DiscountPolicy discountPolicy, int price) {
         this.id = id;
         this.name = name;
         this.address = address;
         this.open = open;
         this.close = close;
         this.discountPolicy = discountPolicy;
+        this.minimumOrderPrice = price;
     }
 }

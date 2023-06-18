@@ -4,33 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0802045a-709d-474c-a025-a543f548dae3" name="Changes" comment="set domain">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/delivery/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/delivery/policy/DiscountPolicy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/delivery/policy/FixDiscountPolicy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/delivery/policy/RateDiscountPolicy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/delivery/repository/ItemRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/delivery/repository/MemberRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/delivery/repository/OrderRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/delivery/repository/StoreRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/delivery/service/DeliveryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/delivery/service/ItemService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/delivery/service/MemberService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/delivery/service/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/delivery/service/StoreService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="0802045a-709d-474c-a025-a543f548dae3" name="Changes" comment="test">
+      <change afterPath="$PROJECT_DIR$/src/main/java/delivery/service/FileService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/delivery/domain/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/delivery/dto/Address.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/delivery/domain/Delivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/delivery/domain/Delivery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/delivery/domain/DeliveryStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/delivery/dto/DeliveryStatus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/delivery/domain/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/delivery/domain/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/delivery/domain/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/delivery/domain/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/delivery/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/delivery/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/delivery/domain/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/delivery/domain/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/delivery/domain/OrderStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/delivery/dto/OrderStatus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/delivery/domain/RoleType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/delivery/dto/RoleType.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/delivery/domain/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/delivery/domain/Store.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/delivery/service/DeliveryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/delivery/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/delivery/service/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/delivery/service/StoreService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/delivery/service/StoreService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +118,7 @@
       <workItem from="1684494546337" duration="8890000" />
       <workItem from="1685790089092" duration="1891000" />
       <workItem from="1685803351636" duration="9342000" />
-      <workItem from="1687090114574" duration="2079000" />
+      <workItem from="1687090114574" duration="6357000" />
     </task>
     <task id="LOCAL-00001" summary="set domain">
       <created>1683994436968</created>
@@ -145,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683994436968</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <created>1687093542030</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687093542030</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +153,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="set domain" />
-    <option name="LAST_COMMIT_MESSAGE" value="set domain" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>
