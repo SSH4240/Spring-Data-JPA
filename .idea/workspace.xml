@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0802045a-709d-474c-a025-a543f548dae3" name="Changes" comment="study">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/datajpa/domain/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/datajpa/domain/Address.java" afterDir="false" />
-    </list>
+    <list default="true" id="0802045a-709d-474c-a025-a543f548dae3" name="Changes" comment="study" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -176,6 +173,7 @@
       <workItem from="1688985522114" duration="1329000" />
       <workItem from="1689160406395" duration="2594000" />
       <workItem from="1689690143440" duration="2339000" />
+      <workItem from="1690381751795" duration="79000" />
     </task>
     <task id="LOCAL-00001" summary="set domain">
       <created>1683994436968</created>
@@ -223,7 +221,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689162348693</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="study">
+      <option name="closed" value="true" />
+      <created>1690381808605</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1690381808605</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
