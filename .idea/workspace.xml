@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0802045a-709d-474c-a025-a543f548dae3" name="Changes" comment="study">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/study/datajpa/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/datajpa/controller/HelloController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -179,7 +178,7 @@
       <workItem from="1690381751795" duration="79000" />
       <workItem from="1690553098437" duration="25000" />
       <workItem from="1690622442102" duration="72000" />
-      <workItem from="1690727389897" duration="4000" />
+      <workItem from="1690727389897" duration="342000" />
     </task>
     <task id="LOCAL-00001" summary="set domain">
       <created>1683994436968</created>
@@ -251,7 +250,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690622495731</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="study">
+      <option name="closed" value="true" />
+      <created>1690727403582</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1690727403582</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
