@@ -13,7 +13,7 @@ import java.util.List;
 @DiscriminatorColumn(name = "dtype")
 @Getter
 @Setter
-public class Item {
+public abstract class Item {
     @Id @GeneratedValue
     @Column(name = "item_id")
     private Long id;
