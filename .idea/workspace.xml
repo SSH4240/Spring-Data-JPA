@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0802045a-709d-474c-a025-a543f548dae3" name="Changes" comment="study">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/datajpa/domain/OrderStatus.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/datajpa/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/datajpa/controller/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/datajpa/domain/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/datajpa/domain/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/datajpa/domain/item/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/datajpa/domain/item/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/datajpa/domain/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/datajpa/domain/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/datajpa/domain/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/datajpa/domain/Category.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +98,7 @@
       <recent name="delivery.domain" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MemberRepositoryTest.회원조회">
+  <component name="RunManager" selected="Spring Boot.DataJpaApplication">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="delivery.Main" />
       <module name="delivery.main" />
@@ -189,7 +187,7 @@
       <workItem from="1690899184569" duration="59000" />
       <workItem from="1691051207639" duration="3000" />
       <workItem from="1691054371176" duration="598000" />
-      <workItem from="1691532670322" duration="3647000" />
+      <workItem from="1691532670322" duration="6004000" />
     </task>
     <task id="LOCAL-00001" summary="set domain">
       <created>1683994436968</created>
@@ -285,7 +283,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690899231179</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="study">
+      <option name="closed" value="true" />
+      <created>1691537318575</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1691537318575</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
