@@ -10,6 +10,8 @@ public class HelloController {
     @GetMapping("/hello")
     public String hello(Model model){
         model.addAttribute("data", "hello!!");
+//        hello controller
+//        data will be present in hello page
         return "hello";
     }
 }
