@@ -41,5 +41,9 @@ public class Order {
         this.delivery = delivery;
         delivery.setOrder(this);
     }
+    public void setState(State state){
+        this.state = state
+        delivery.setState(this);
+    }
 
 }
