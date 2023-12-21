@@ -43,24 +43,5 @@ public class Order {
         delivery.setOrder(this);
     }
 
-    public void setState(State state) {
-        this.state = state;
-        delivery.setState(this);
-    }
-
-    public void setDelivery(Delivery delivery) {
-        this.delivery = delivery;
-        delivery.delivery(this);
-    }
-
-    public void setItem(Item item) {
-        this.item = item;
-        delivery.item(this);
-    }
-
-    public void setOrder(Order state) {
-        this.member = state;
-        member.setState(this);
-    }
 
 }
