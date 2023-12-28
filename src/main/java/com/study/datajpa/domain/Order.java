@@ -33,10 +33,6 @@ public class Order {
 
     private OrderStatus status;
 
-    public void setMember(Member member) {
-        this.member = member;
-        member.getOrders().add(this);
-    }
 
     public void setDelivery(Delivery delivery) {
         this.delivery = delivery;

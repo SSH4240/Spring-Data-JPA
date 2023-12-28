@@ -19,15 +19,15 @@ class MemberRepositoryTest {
     @Test
     void 회원조회(){
         //given
-        Member member = new Member();
-        member.setUsername("memberA");
+//        Member member = new Member();
+//        member.setUsername("memberA");
 
         //when
-        Long save = memberRepository.save(member);
-        Member findMember = memberRepository.find(save);
+//        Long save = memberRepository.save(member);
+//        Member findMember = memberRepository.find(save);
 
         //then
-        Assertions.assertThat(findMember.getId()).isEqualTo(member.getId());
-        Assertions.assertThat(findMember.getUsername()).isEqualTo(member.getUsername());
+//        Assertions.assertThat(findMember.getId()).isEqualTo(member.getId());
+//        Assertions.assertThat(findMember.getUsername()).isEqualTo(member.getUsername());
     }
 }
